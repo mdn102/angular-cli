@@ -176,7 +176,7 @@
     "minimatch": "3.0.4",
     "minimist": "^1.2.0",
     "ng-packagr": "~11.0.0-next.0",
-    "node-fetch": "^2.2.0",
+    "node-fetch": "^3.2.2",
     "npm-registry-client": "8.6.0",
     "open": "7.3.0",
     "ora": "5.1.0",
